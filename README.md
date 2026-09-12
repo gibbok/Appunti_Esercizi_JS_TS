@@ -201,4 +201,4 @@ const nNumero = new Nodo<number>(42);
 
 ### Risorse per approfondire TypeScript
 
-- [The Concise TypeScript Book (edizione italiana)](https://gibbok.github.io/typescript-book/it-it/) - guida gratuita e open source.
+- [The Concise TypeScript Book (edizione italiana)](https://gibbok.github.io/typescript-book/it-it/) - guida gratuita e open source a TypeScript.
