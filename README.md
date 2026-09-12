@@ -198,3 +198,7 @@ const nNumero = new Nodo<number>(42);
 ### 4. Interoperabilità con JS
 * **Dichiarazioni `.d.ts`**: File contenenti solo `interface` e `type`. Servono per far capire a TS come sono scritte le vecchie librerie JS.
 * **JSDoc e `@ts-check`**: Aggiungere `// @ts-check` a inizio di un file `.js` forzerà il compilatore a controllare i tipi leggendo i commenti JSDoc (`/** @param {number} x */`).
+
+### Risorse per approfondire TypeScript
+
+- [The Concise TypeScript Book (edizione italiana)](https://gibbok.github.io/typescript-book/it-it/) - guida gratuita e open source.
